@@ -1,0 +1,13 @@
+Foundations of Project Management —Learn the fundamentals of project management and how this program will prepare you for project management roles in numerous types of industries. Then, explore the different types of career paths you might pursue, the responsibilities and essential skills of a project manager, the importance of the project life cycle, common project management methodologies, and how organizational structure and culture impact project management.
+
+Project Initiation: Starting a Successful Project— Discover how to set the stage for a successful project. Learn about stakeholders, their level of influence, and how to mobilize and manage them, as well as tackle tasks to identify project scope, goals, deliverables, and success criteria. 
+
+Project Planning: Putting it All Together— Explore how to map out a project in the second phase of the project life cycle: the project planning phase. Examine the key components of a project plan, how to make accurate time estimates, and how to set milestones. 
+
+Project Execution: Running the Project— Delve into the execution and closing phases of the project life cycle. Learn what aspects of a project to track and how to track them, as well as how to effectively manage and communicate changes, dependencies, and risks.
+
+Agile Project Management— Explore the history, approach, and philosophy of Agile project management, including the Scrum framework. Learn how to differentiate and blend Agile and other project management approaches. Discover more about Scrum, exploring its pillars and values and comparing essential Scrum team roles.
+
+Capstone: Applying Project Management in the Real World— Develop a portfolio of project management artifacts that will demonstrate the skills you have learned throughout the entire program, such as your ability to manage stakeholders and teams, organize plans, and communicate project details.
+
+Accelerate Your Job Search with AI— Gain practical job search strategies and learn how to leverage AI tools (like Gemini and NotebookLM) to uncover your most valuable skills, create a job search plan, manage your applications, and practice for interviews as you navigate your path to your next role. 
